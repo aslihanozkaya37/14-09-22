@@ -1,0 +1,15 @@
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\bin\Debug\net6.0\14-09-22_project.exe
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\bin\Debug\net6.0\14-09-22_project.deps.json
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\bin\Debug\net6.0\14-09-22_project.runtimeconfig.json
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\bin\Debug\net6.0\14-09-22_project.dll
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\bin\Debug\net6.0\14-09-22_project.pdb
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.dll
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\refint\14-09-22_project.dll
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.pdb
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\14-09-22_project.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\Dotnetprojects\Week1\14-09-22_project\14-09-22_project\obj\Debug\net6.0\ref\14-09-22_project.dll
