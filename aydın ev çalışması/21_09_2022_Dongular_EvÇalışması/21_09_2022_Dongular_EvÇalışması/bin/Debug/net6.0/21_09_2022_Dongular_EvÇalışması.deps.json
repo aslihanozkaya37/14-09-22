@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "21_09_2022_Dongular_EvÇalışması/1.0.0": {
+        "runtime": {
+          "21_09_2022_Dongular_EvÇalışması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21_09_2022_Dongular_EvÇalışması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

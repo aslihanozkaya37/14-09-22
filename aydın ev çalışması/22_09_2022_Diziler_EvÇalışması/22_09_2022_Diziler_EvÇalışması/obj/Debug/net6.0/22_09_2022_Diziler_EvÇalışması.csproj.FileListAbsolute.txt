@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\bin\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.exe
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\bin\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\bin\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\bin\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\bin\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\refint\22_09_2022_Diziler_EvÇalışması.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\22_09_2022_Diziler_EvÇalışması.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\22_09_2022_Diziler_EvÇalışması\22_09_2022_Diziler_EvÇalışması\obj\Debug\net6.0\ref\22_09_2022_Diziler_EvÇalışması.dll
