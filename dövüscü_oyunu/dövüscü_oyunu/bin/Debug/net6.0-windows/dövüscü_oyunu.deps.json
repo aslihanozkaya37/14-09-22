@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dövüscü_oyunu/1.0.0": {
+        "runtime": {
+          "dövüscü_oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dövüscü_oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
