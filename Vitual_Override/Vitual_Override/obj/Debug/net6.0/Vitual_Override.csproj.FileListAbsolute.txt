@@ -1,0 +1,15 @@
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\bin\Debug\net6.0\Vitual_Override.exe
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\bin\Debug\net6.0\Vitual_Override.deps.json
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\bin\Debug\net6.0\Vitual_Override.runtimeconfig.json
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\bin\Debug\net6.0\Vitual_Override.dll
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\bin\Debug\net6.0\Vitual_Override.pdb
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.dll
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\refint\Vitual_Override.dll
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.pdb
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\Vitual_Override.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\forms\Vitual_Override\Vitual_Override\obj\Debug\net6.0\ref\Vitual_Override.dll
