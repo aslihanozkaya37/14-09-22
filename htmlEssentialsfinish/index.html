@@ -1,0 +1,64 @@
+<!-- yorum satırı nasıl yapılıyor -->
+<!-- önce döküman tipini belirtiyoruz -->
+<!DOCTYPE html>
+<!-- html çalışma alanını başlattık -->
+<!-- html sayfalarının tüm içerikleri mutlaka html tagleri arasında yazılmalıdır.Temel anlamda iki adet alt ögesi vardır.Bu alt ögeler head ve body şeklinde ikiye ayrılır. -->
+<html>
+  <!-- html sayfasında kullanılan harici kaynakların (css dosyaları,javascript dosyaları yada hazır bir kütüphane linki vs)sayfamıza tanıtıldığı kısım.bunula beraber sayfamızın rama motorlarına tanıtıldığı  özet bilgiler yani meta taglerin eklendiği alan .Ek olarak title bilgisini de bu alanda vermekteyiz. -->
+  <head>
+    <!-- sayfamızın başlığıdır -->
+    <title>Wissen Akademie HTML</title>
+    <!-- meta tagleri ile sayfamizi seo bakimindan hazırladık.yani arama motorları tarafından bulundurduğunu düzenledik -->
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta
+      name="description"
+      content="Html Temelleri Wissen Akademie Full Stack Kursu"
+    />
+    <meta name="keywords=" content="HTML,CSS,JavaScript" />
+    <meta name="author" content="Barbaros C" />
+    <link rel="stylesheet" href="/style.css" />
+    <!-- harici kaynakları eklemek içinde link tagini kullanmaktayız -->
+    <!-- dışarıdan still dosyası almak yerine kendi sayfamız içerisinde stillerimizi hazırlamak istiyorsak yine head içerisinde bir style tagi ekleyerek faaliyet alanı içinde stillerimizi yazabiliriz -->
+    <style></style>
+  </head>
+  <body>
+    <!-- sayfamızda başlık oluşturmak için h taglerini kullanmakatayız.1 den 6 ya kadar giden taglerde numara arttıkça başlık boyutu küçülür -->
+    <h1>Wissen Akademie Başlık 1</h1>
+    <h2>Wissen Akademie Başlık 2</h2>
+    <h3>Wissen Akademie Başlık 3</h3>
+    <h4>Wissen Akademie Başlık 4</h4>
+    <h5>Wissen Akademie Başlık 5</h5>
+    <h6>Wissen Akademie Başlık 6</h6>
+    <!-- p tagleri ile uzun yazılar text ifadelerimizi belirliyoruz. -->
+    <p>
+      Wissen Akademie Full Stack Web Developer dersleri.Html tipleri
+      öğrenilmektedir.Şuana kadar h ve p taglerini öğrendik
+    </p>
+    <!-- hr tagi ile bileşenimizin altına sayfa boyu devam eden (bunun ayarı yapılabilmektedir.)bir çizgi ekliyoruz. -->
+    <hr />
+    <!-- bir tagi alt satıra geçiriyoruz.yanyana kaç defa kullanırsak o kadara satır aşağı ineriz. -->
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing <br /><br /><br />
+      Quisquam eveniet corrupti recusandae, deleniti voluptates accusamus eius
+      illo, nobis, reiciendis quos vitae natus perspiciatis delectus incidunt
+      quidem veritatis quaerat aperiam magni.
+    </p>
+    <!-- <p>
+        a agi içerisinde default olarak href değeri alan bir tagdir.href bize link yönlendirmesi yaptığımızda gididlecek olan sitenin linkini yazdığımız kısım olarak geli,r.nu attribute (href) ve buna benzer diğer taglere de ekleyeceğimiz attribute(href) ve buna
+    -->
+        
+        
+        <!-- ctrk+ boşluk tuşuna basarak olası değerleri görünteletebiliriz. -->
+      <a href="https://www.google.com/" targete="_blank"
+        >Arama yapmak için tıklayınız</a
+      >
+    </p>
+    <hr />
+   <a href="https://www.wissenakademie.com/" target="_blank">
+   <img src="/1519952582102 (1).jpg" alt=""width="150px">
+   </a>
+   <br>
+   <img src="/1552595783441.jpg" alt="wissen akademie" width="150px">
+  </body>
+</html>
