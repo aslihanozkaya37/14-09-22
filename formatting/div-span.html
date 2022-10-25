@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      .basliklar {
+        background-color: blanchedalmond;
+        color: cadetblue;
+        border: 3px solid gainsboro;
+      }
+      .span1 {
+        color: rgb(160, 156, 95);
+      }
+    </style>
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- Semantitlerle aynı işleve sahiptir.ve içerisindeki kodların ne işe yaradığını yada hangi alanda faaaliyet gösterdiğini belirtir.bu kodları gruplamış olur ve bunlara stil özllelliklerini aktarmak için işe yarar. -->
+    claslar herhangi bir elemente tıpkı idler gibi eklenebilen
+    özelliklerdir.istediğimiz isimleri verebiliriz claslara ve verdiğimiz ismi
+    style bölümüne
+    <div id="header" class="basliklar">
+      <h1>En İyi Filmler</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas dolore
+        dolor qui a accusamus fugit explicabo quos distinctio aperiam quasi
+        nulla, magni expedita ipsa quia. Totam aspernatur accusantium neque
+        velit!
+      </p>
+    </div>
+    <!-- peki span nedir?Span de bir yazı blokunda farklı bir özellik göstermesini istediğimiz bir alanı ayırarak sadece oraya özgü özellikler tanımlayabilmemize yarayan bir tagdir. -->
+    <div class="basliklar">
+      <h2>Lorem</h2>
+      <p>
+        Lorem ipsum dolor <span class="span1"> sit amet</span>
+        <span style="color: rgb(255, 127, 189); font-weight: bold"
+          >consectetur adipisicing elit.</span
+        >
+        Inventor e necessitatibus fugit, sint dolor nemo autem temporibus sunt
+        dolorem non dolore corrupti deserunt hic dicta vel. Consequuntur sed
+        aperiam ullam voluptas?
+      </p>
+    </div>
+  </body>
+</html>
