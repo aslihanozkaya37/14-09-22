@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bootstrap demo</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+
+    />
+
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <!--Progress Bar-->
+    <div class="progress my-5 container ">
+    <div class="progress-bar bg-warning" style="width: 40%;">40%</div>
+    </div>
+    <!--pagination-->
+    <ul class="pagination">
+      <li><a href="" class="page-link">0</a></li>
+      <li><a href="" class="page-link">1</a></li>
+      <li><a href="" class="page-link active">2</a></li>
+      <li><a href="" class="page-link">3</a></li>
+     <li><a href="" class="page-link">4</a></li>
+  </ul>
+    <!--Badge kullanımı-->
+    <h1 class="badge bg-primary">New</h1>
+    <button class="btn btn-dark">
+        Sepet<span class="badge rounded-pill bg-danger">4</span>
+    </button>
+    <!---Butonlar-->
+    <button type="button" class="btn btn-primary">Basic</button>
+    <button type="button" class="btn btn-success">Basic</button>
+    <button type="button" class="btn btn-dark">Basic</button>
+    <button type="button" class="btn btn-info">Basic</button>
+    <button type="button" class="btn btn-danger">Basic</button>
+    <button type="button" class="btn btn-outline-info">Basic</button>
+    <button type="button" class="btn btn-outline-dark btn-sm">
+        Small Button
+    </button>
+    <button type="button" class="btn btn-danger btn-lg">Büyük Buton</button>
+    <br/>
+    <button type="button" class="btn btn-dark w-50 mt-3 disabled">Büyük Buton</button>
+    Full Boyut Buton
+    </button>  
+    <br>
+    <button class="btn btn-danger">
+        <span class="spinner-border spinner-border-sm"></span> Veri Bekleniyor
+    </button>
+    <br>
+    <div class="btn-group">
+        <div class="btn btn-primary">aslı</div> 
+        <div class="btn btn-primary">aslı</div>
+        <div class="btn btn-primary">aslı</div>
+    </div>
+    <!--Alerts-->
+    <div class="alert alert-danger">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia perspiciatis voluptatibus ex sunt ea quos suscipit esse dicta ullam! Ab molestiae suscipit deleniti perspiciatis, illo libero tempora harum mollitia veritatis.</p>
+    </div> 
+    <div class="alert alert-success">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem aut rem illum magnam? Quidem, quasi dolorem. At eos temporibus a natus ad nobis, asperiores sequi libero, magni eveniet hic dicta.</p>
+    </div>
+    <div class="alert alert-primary">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus magnam beatae modi porro totam sit, accusamus, similique at temporibus sed illum dolorum perspiciatis minima blanditiis asperiores tempora, eum aperiam consequatur!</p>
+        bana <a href="falanfilan.html" class="alert-link">tıkla</a>
+    </div>
+    <div class="alert alert-info">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus magnam beatae modi porro totam sit, accusamus, similique at temporibus sed illum dolorum perspiciatis minima blanditiis asperiores tempora, eum aperiam consequatur!</p>
+    </div>
+
+
+
+    <!--Color classları-->
+    <div class="container my-2">
+      <div class="bg-dark"></div>
+      <p class="text-muted text-black-50 fw-bold">Text muted</p>
+      <p class="text-primary">Text primary</p>
+      <p class="text-succes">Text succes</p>
+      <p class="text-info">Text info</p>
+      <p class="text-warning">Text warning</p>
+      <div class="text-danger">Text danger</div>
+      <div class="text-secondary">Text secondary</div>
+      <div class="text-light">Text light</div>
+      <div class="text-dark">Text dark</div>
+      <div class="text-white">Text white</div>
+      <div class="text-body">Text body</div>
+    </div>
+    <!--Tablolar-->
+    <table
+      class="table table-sm table-responsive table-striped table-bordered table-hover text-center table-info"
+    >
+      <thead class="table-danger">
+        <tr class="text-center">
+          <th>x</th>
+          <th>x</th>
+          <th>x</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="text-center">
+          <td>y</td>
+          <td>y</td>
+          <td>y</td>
+        </tr>
+        <tr class="text-center">
+          <td>y</td>
+          <td>y</td>
+          <td>y</td>
+        </tr>
+      </tbody>
+    </table>
+    <!--Fotoğraflar-->
+    <div class="row my-3 text-center">
+      <div class="col-md-4">
+        <img src="https://picsum.photos/200" alt="" class="rounded" />
+      </div>
+      <div class="col-md-4">
+        <img src="https://picsum.photos/200" alt="" class="rounded-circle" />
+      </div>
+      <div class="col-md-4">
+        <img src="https://picsum.photos/200" alt="" class="rounded-end" />
+      </div>
+    <div class="row my-3 text-center">
+       <div class="col-md-1 mx-auto">
+        <img src="https://picsum.photos/200" alt="" class="rounded" />
+    </div>
+    <div class="row my-3 text-center">
+        <div class="col-md-1 mx-auto">
+         <img src="https://picsum.photos/300/200" alt="" class="rounded-pill" />
+     </div> 
+     <div class="row my-3 text-center">
+        <div class="col-md-1 mx-auto">
+         <img src="https://picsum.photos/200" alt="" class="img-thumbnail" />
+     </div>
+     </div>
+    </div>
+    <!--headingler ve tyrography ayarları-->
+    <!--h1 ve h6 arası normal bootstrap başlık clasları geçerlidir.normal başlıkların daha büyük ebatlı kullanımları için.display-1'den .display-6' ya kadar giden başlıklar kullanılır.-->
+    <h1>H1 ebadında başlık</h1>
+    <h1 class="display-1">Display ayarlı H1</h1>
+
+    <!-- grid sistem/ızgara yapısı -->
+    <!--
+    .col- (xsmall cihazlarda ekran genişliği 576px den küçük olanlar için)
+    .col-sm-(small cihazlarda ekran genişliği 576px den büyük olanlar için)
+    .col-md-(medium cihazlarda ekran genişliği768px den küçük olanlar için)
+    .col-lg-(large cihazlarda ekran genişliği 992px den küçük olanlar için)
+    .col-xl-(xlarge cihazlarda ekran genişliği 1200px den küçük olanlar için)
+    .col-xxl-(xxlarge cihazlarda ekran genişliği 1400px den küçük olanlar için)
+    Bu belirlenmiş boyutlara göre ızagara yapısını claslar ekleyerek oluşturuyoruz.
+    Her satır için öncelikle bir row classı ile kapsayıcı bir div oluşturuyoruz.
+    Ardından gelen her sütun için bir col classı ekleyerek istediğimiz ebatlar için clas belirleyerek boyuta göre yanyana claslar ekliyoruz.
+-->
+    <!-- <div class="container bg-danger border border-2 border-info">
+      <div class="row">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 col-xxl-1 mt-3">
+          <div class="card" style="width: auto">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
+            vero distinctio voluptatibus, nulla voluptas laboriosam! Ipsa fuga
+            quis est harum ullam suscipit autem facere, rerum assumenda
+            excepturi enim quibusdam optio.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
+            vero distinctio voluptatibus, nulla voluptas laboriosam! Ipsa fuga
+            quis est harum ullam suscipit autem facere, rerum assumenda
+            excepturi enim quibusdam optio.
+          </p>
+        </div>
+      </div>
+    </div> -->
+
+    <!-- container özellikleri -->
+    <!-- container kapsayıcı bir div olarak kullanılmaktadır.2 tane kullanım şekli bulunmaktadır.Biri sayfanın kenarlarında hafif boşluk bırakarak içerikleri içerisine sığdırır. -->
+    <!-- <div class="container border-danger border border-2">
+      <h1>Barbaros</h1>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae rem
+        nihil enim animi nisi. Consectetur voluptate nam dignissimos sequi
+        incidunt quis voluptates nobis, sapiente eos praesentium! Adipisci sit
+        animi suscipit.
+      </p>
+    </div>
+    <div class="container-fluid border bg-dark text-light mt-2">
+      <h1>Barbaros</h1>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae rem
+        nihil enim animi nisi. Consectetur voluptate nam dignissimos sequi
+        incidunt quis voluptates nobis, sapiente eos praesentium! Adipisci sit
+        animi suscipit.
+      </p>
+    </div> -->
+    <!-- container bitti -->
+    <!-- <h1 class="text-center text-danger mt-1 mt-5">Barbaros Ciga</h1>
+    <br />
+
+    <table
+      class="table table-striped table-hover text-center w-75 m-auto table-danger"
+    >
+      <thead>
+        <tr>
+          <th>Ürün ID</th>
+          <th>Ürün Adı</th>
+          <th>Ürün Fiyati</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <th>Iphone</th>
+          <th>60.000</th>
+        </tr>
+      </tbody>
+    </table> -->
+    <!-- <nav class="navbar navbar-expand-lg bg-light sticky-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Dropdown
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Action</a></li>
+                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li>
+                  <a class="dropdown-item" href="#">Something else here</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled">Disabled</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input
+              class="form-control me-2"
+              type="search"
+              placeholder="Search"
+              aria-label="Search"
+            />
+            <button class="btn btn-outline-success" type="submit">
+              Search
+            </button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+      crossorigin="anonymous"
+    ></script> -->
+  </body>
+</html>
