@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDbFirst", "EDbFirst\EDbFirst.csproj", "{7C3C5C9D-C1E5-44EF-9FFF-5F3AB3F6ECEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3C5C9D-C1E5-44EF-9FFF-5F3AB3F6ECEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3C5C9D-C1E5-44EF-9FFF-5F3AB3F6ECEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3C5C9D-C1E5-44EF-9FFF-5F3AB3F6ECEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3C5C9D-C1E5-44EF-9FFF-5F3AB3F6ECEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE520FC4-C3B6-4B61-81A2-7BA48AEB1059}
+	EndGlobalSection
+EndGlobal
