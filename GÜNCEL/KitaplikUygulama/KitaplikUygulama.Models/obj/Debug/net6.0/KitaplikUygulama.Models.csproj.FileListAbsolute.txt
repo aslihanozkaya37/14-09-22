@@ -1,0 +1,12 @@
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.deps.json
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\hoca\DbFirst\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll
