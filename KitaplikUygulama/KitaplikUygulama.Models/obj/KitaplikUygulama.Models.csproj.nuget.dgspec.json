@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj": {}
+    "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj": {
+    "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
         "projectName": "KitaplikUygulama.Models",
-        "projectPath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
+        "projectPath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
         "packagesPath": "C:\\Users\\Wissen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\obj\\",
+        "outputPath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\KitaplikUygulama\\KitaplikUygulama.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -51,17 +51,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
