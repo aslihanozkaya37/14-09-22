@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Clo2nNt6f7EesKm1RNBc1ir4NxlAAN/I+9xH/e89vLwjLHpVYCQ4+OVNS2JbdDUTQ3ZHyUiY4hYNJYr3YN2Mw==",
+  "dgSpecHash": "HpZ3hyjfIRDT2qJ/H5Y3+wF8rEBdNP9wkCf/nRk3vp2dhk6dCNW9/XkE50RRKn4goZJZRUS4G9Q+2bPfIw1SWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
