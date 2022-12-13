@@ -6638,11 +6638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
       "projectName": "KitaplikUygulama.Models",
-      "projectPath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
+      "projectPath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
       "packagesPath": "C:\\Users\\Wissen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\obj\\",
+      "outputPath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

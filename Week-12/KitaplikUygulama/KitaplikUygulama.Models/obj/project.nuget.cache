@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKcy9u8CEl4bOV3zkGT502RVYcDS8pyrHXo8/FANm2RNQhvaJecSzkbl8xATI6/als+su7tFnY8EiyitsQ/Y/A==",
+  "dgSpecHash": "AztglGmcOJAt0w1+vEr5RCQupgcQP95gowKR0Yi5MWFC/uiONCXNl2pdUA5E+OWGDALz1Me7wCGR2U3FCyQ2Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

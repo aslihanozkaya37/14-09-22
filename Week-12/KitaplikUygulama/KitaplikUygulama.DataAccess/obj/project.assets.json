@@ -7961,11 +7961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
       "projectName": "KitaplikUygulama.DataAccess",
-      "projectPath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Wissen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7988,8 +7988,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj": {
-              "projectPath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj"
+            "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj": {
+              "projectPath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.Models\\KitaplikUygulama.Models.csproj"
             }
           }
         }

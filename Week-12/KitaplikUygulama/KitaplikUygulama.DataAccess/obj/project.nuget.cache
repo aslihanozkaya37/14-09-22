@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wf3kRmJiK1SI8rjKOzOGPCA1DQwPprRWvdSlEnMaIeW9pJP78pf7cEK+mGVzpAqBQVfaITkPUBzEWLxZ6+jlNg==",
+  "dgSpecHash": "RvdWU5AnvGehaQDlIMBJNMsZSTCrQfHN6EHH22e38j4MzgfCDPrsQKstP5ydVAeQdWEJkLG+oOuKnLinYprjLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulama.DataAccess\\KitaplikUygulama.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

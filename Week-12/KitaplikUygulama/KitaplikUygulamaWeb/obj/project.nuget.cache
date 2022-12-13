@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5c63xBDZSZ2NKsHcxCtO3L2O/ygkqE8Q+IY1tuhins07ONzQVkEprJ/tTc7JZ0e8LT+sPQBsyNRKbol6HCKOQ==",
+  "dgSpecHash": "yglN4Dy8b517dykIb0wVbM2oG0AVOxE7wssn+ressTiRVhcpaMTaey5Xkn8rkX1LgHZ0DxrsZ/X6CyBC3Dz1kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Week-12\\KitaplikUygulama\\KitaplikUygulamaWeb\\KitaplikUygulamaWeb.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\.net6\\14-09-22\\Week-12\\KitaplikUygulama\\KitaplikUygulamaWeb\\KitaplikUygulamaWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
