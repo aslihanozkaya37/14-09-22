@@ -15,6 +15,23 @@ C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygu
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.genruntimeconfig.cache
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\ref\KitaplikUygulama.DataAccess.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.deps.json
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.runtimeconfig.json
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.AssemblyReference.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfoInputs.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfo.cs
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CopyComplete
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\refint\KitaplikUygulama.DataAccess.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.genruntimeconfig.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\ref\KitaplikUygulama.DataAccess.dll
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.deps.json
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.runtimeconfig.json
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.dll
@@ -32,20 +49,3 @@ C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.genruntimeconfig.cache
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\ref\KitaplikUygulama.DataAccess.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.deps.json
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.runtimeconfig.json
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.AssemblyReference.cache
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfoInputs.cache
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfo.cs
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CopyComplete
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\refint\KitaplikUygulama.DataAccess.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.genruntimeconfig.cache
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\ref\KitaplikUygulama.DataAccess.dll

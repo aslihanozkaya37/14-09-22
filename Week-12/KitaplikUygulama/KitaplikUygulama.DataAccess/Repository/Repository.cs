@@ -25,15 +25,22 @@ namespace KitaplikUygulama.DataAccess.Repository
         {
            dbSet.Add(entity);
         }
-
-        public IEnumerable<T> GetAll()
+        //includeProps -"Category","Covertype"
+        public IEnumerable<T> GetAll(string? includeProperties = null)
         {
             //IEnumarable ile IQueryable arasındaki farklar şöyledir; IEnumarabla tüm verileri alıp memoryde tutarak sorguları memori üzerinden yapar. IQueryable ise şartlara bağlı olarak query oluştturur ve bu şartlar sonucu olarak veritabnı üzerinden sorgu çeker. Çoklu kayıtlar üzerinden sorgu yapıyorsak IQueryable çok daha hızlı çalışır.  IEnumarable koleksiyon için idealdir. Hafıza dışı koleksiyonlarda(veritabanı, servisler vs.) Queryable daha idealdir.
             IQueryable<T> query = dbSet;
+            if(includeProperties != null)
+            {
+                foreach(var includeProp in includeProperties.Split(new char[] {','},StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProp);
+                }
+            }
             return query.ToList();
         }
 
-        public T GetFirstOrDefault(Expression<Func<T, bool>> filter)
+        public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
             // buradaki where ifadesi filtreden geçen elemanı gösteren ifadedir.
@@ -43,7 +50,7 @@ namespace KitaplikUygulama.DataAccess.Repository
 
         public void Remove(T entity)
         {
-            dbSet.Remove(entity);   
+            dbSet.Remove(entity);
         }
 
         public void RemoveRange(IEnumerable<T> entity)

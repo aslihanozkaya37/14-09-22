@@ -10,6 +10,18 @@ C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygu
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\refint\KitaplikUygulama.Utility.dll
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.pdb
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\ref\KitaplikUygulama.Utility.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\bin\Debug\net6.0\KitaplikUygulama.Utility.deps.json
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\bin\Debug\net6.0\KitaplikUygulama.Utility.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\bin\Debug\net6.0\KitaplikUygulama.Utility.pdb
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.csproj.AssemblyReference.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.AssemblyInfoInputs.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.AssemblyInfo.cs
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.csproj.CoreCompileInputs.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\refint\KitaplikUygulama.Utility.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\KitaplikUygulama.Utility.pdb
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\obj\Debug\net6.0\ref\KitaplikUygulama.Utility.dll
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\bin\Debug\net6.0\KitaplikUygulama.Utility.deps.json
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\bin\Debug\net6.0\KitaplikUygulama.Utility.dll
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Utility\bin\Debug\net6.0\KitaplikUygulama.Utility.pdb

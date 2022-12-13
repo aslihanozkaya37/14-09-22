@@ -1,6 +1,7 @@
 ﻿using KitaplikUygulama.DataAccess;
 using KitaplikUygulama.DataAccess.Repository.IRepository;
 using KitaplikUygulama.Models;
+using KitaplikUygulama.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -12,69 +13,106 @@ namespace KitaplikUygulamaWeb.Areas.Admin.Controllers
     {
 
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IWebHostEnvironment _hostEnvironment;
 
-        public ProductController(IUnitOfWork unitOfWork)
+        public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment hostEnvironment)
         {
             _unitOfWork = unitOfWork;
+            _hostEnvironment = hostEnvironment;
         }
 
         public IActionResult Index()
         {
-            IEnumerable<Category> objCategoryList = _unitOfWork.Category.GetAll();
-            return View(objCategoryList);
+           return View();
         }
 
-
+       
 
         //EDİT GET
         [HttpGet]
         public IActionResult Upsert(int id)
         {
-            Product product = new Product();
-            IEnumerable<SelectListItem>CategoryList = _unitOfWork.Category.GetAll().
-                Select( u=>new SelectListItem { Text = u.Name, Value = u.Id.ToString() });
-           
-            IEnumerable<SelectListItem> CoverTypeList = _unitOfWork.CoverType.GetAll().
-               Select(u => new SelectListItem { Text = u.Name, Value = u.Id.ToString() });
+
+            ProductVM productVM = new()
+            {
+                Product = new(),
+                CategoryList = _unitOfWork.Category.GetAll().Select(
+                u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                }),
+                CoverTypeList = _unitOfWork.CoverType.GetAll().Select(
+                u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                }),
+
+            };
+
 
             if (id == null || id == 0)
             {
                 //create product
-                ViewBag.CategoryList = CategoryList;
-                ViewData["CoverTypeList"] = CoverTypeList;
-                return View(product);
-            }
-            if (id == null || id == 0)
-            {
-                //create product
-                return View(product);
+                //ViewBag.CategoryList = CategoryList;
+                //ViewBag.CoverTypeList = CoverTypeList;
+                //ViewData["CoverTypeList"] = CoverTypeList;
+                return View(productVM);
             }
             else
             {
+                productVM.Product = _unitOfWork.Product.GetFirstOrDefault(u => u.Id == id);
                 //update product
+
             }
 
-
-
-            return View(product);
+            return View(productVM);
         }
 
         //EDİT POST
         [HttpPost]
-        public IActionResult Upsert(Category obj)
+        public IActionResult Upsert(ProductVM obj, IFormFile? file)
         {
-            if (obj.Name == obj.Id.ToString())
-            {
-                ModelState.AddModelError("CustomError", "Book name cant be equal to Display Order");
-            }
-
-
+          
             if (ModelState.IsValid)
             {
-                _unitOfWork.Category.Update(obj);
+                string wwwRootPath = _hostEnvironment.WebRootPath;
+                if(file != null)
+                {
+
+                    string fileName = Guid.NewGuid().ToString();
+                    var uploads = Path.Combine(wwwRootPath, @"images\products");
+                    var extension = Path.GetExtension(file.FileName);
+                    if(obj.Product.ImageURL!=null)
+                    {
+                        var oldImagePath = Path.Combine(wwwRootPath, obj.Product.ImageURL.TrimStart('\\'));
+                        if(System.IO.File.Exists(oldImagePath))
+                        {
+                            System.IO.File.Delete(oldImagePath);    
+                        }
+                    }
+
+                    using ( var fileStreams = new FileStream(Path.Combine(uploads, fileName + extension), FileMode.Create))
+                    {
+                        file.CopyTo(fileStreams);
+                    }
+                    obj.Product.ImageURL = @"images\products\" + fileName + extension;
+
+                }
+                if(obj.Product.Id==0)
+                {
+                    _unitOfWork.Product.Add(obj.Product);
+                }
+                else
+                {
+                    _unitOfWork.Product.Update(obj.Product);
+                }
+                //_unitOfWork.CoverType.Update(obj);
+                
                 _unitOfWork.Save();
-                TempData["success"] = "Category updated succesfully! :) ";
-                return RedirectToAction("Index", "Category");
+                TempData["success"] = "CoverType updated succesfully! :) ";
+                return RedirectToAction("Index", "Product");
             }
             return View(obj);
         }
@@ -90,55 +128,48 @@ namespace KitaplikUygulamaWeb.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            var categoryFromDb = _unitOfWork.Category.GetFirstOrDefault(u => u.Id == id);
+            var CoverTypeFromDbFirst = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
 
-            if (categoryFromDb == null)
+            if (CoverTypeFromDbFirst == null)
             {
                 return NotFound();
             }
 
 
-            return View(categoryFromDb);
+            return View(CoverTypeFromDbFirst);
         }
 
         //DELETE POST
         [HttpPost, ActionName("Delete")]
         public IActionResult DeletePOST(int id)
         {
-            var obj = _unitOfWork.Category.GetFirstOrDefault(u => u.Id == id);
+            var obj = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
             if (obj == null)
             {
                 return NotFound();
             }
 
-            _unitOfWork.Category.Remove(obj);
+            _unitOfWork.CoverType.Remove(obj);
             _unitOfWork.Save();
-            TempData["success"] = "Category deleted succesfully! :) ";
-            return RedirectToAction("Index", "Category");
+            TempData["success"] = "CoverType deleted succesfully! :) ";
+            return RedirectToAction("Index", "CoverType");
 
 
         }
 
-
-
-        //CREATE POST
-        [HttpPost]
-        public IActionResult Create(Category obj)
+        #region API CALL
+        [HttpGet]
+        public IActionResult GetAll()
         {
-            if (obj.Name == obj.DisplayOrder.ToString())
-            {
-                ModelState.AddModelError("CustomError", "Category name cant be equal to Display Order");
-            }
-
-
-            if (ModelState.IsValid)
-            {
-                _unitOfWork.Category.Add(obj);
-                _unitOfWork.Save();
-                TempData["success"] = "Category created succesfully! :) ";
-                return RedirectToAction("Index", "Category");
-            }
-            return View(obj);
+            var productlist = _unitOfWork.Product.GetAll(includeProperties:"Category,CoverType");
+            return Json(new { data = productlist });
         }
+
+        #endregion
+
+
     }
+
+
+
 }

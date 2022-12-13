@@ -12,13 +12,13 @@ namespace KitaplikUygulama.DataAccess.Repository.IRepository
         //T - Şuan Category için genel komutu yazıyoruz.
 
         //Listeleme metodu
-        IEnumerable<T> GetAll();
+        IEnumerable<T> GetAll(string? includeProperties = null);
 
         //Ekleme metodu
         void Add(T entity);
 
-        // Filtreleme
-        T GetFirstOrDefault(Expression<Func<T, bool>> filter);
+        // Filtreleme //ilgili idyi getiriyor bununla beraber bazı özellikleride isteğe balı getiebilsin diye virgülde sonra yazıyoruz. Biz bir şey eklemezsek null saysın ekledikçe eşitlik bozulacak
+        T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties=null);
 
         // Silme Komutu
         void Remove(T entity);

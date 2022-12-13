@@ -17,6 +17,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\SABAH\\Documents\\GitHub\\304Dersler\\Week-12\\KitaplikUygulama\\KitaplikUygulamaWeb\\wwwroot\\images\\products\\08c08b65-557b-47e0-b3cc-48bba70dcb5d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\08c08b65-557b-47e0-b3cc-48bba70dcb5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SABAH\\Documents\\GitHub\\304Dersler\\Week-12\\KitaplikUygulama\\KitaplikUygulamaWeb\\wwwroot\\images\\products\\b211c097-da63-428d-8cbd-6d021c1b5e90.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b211c097-da63-428d-8cbd-6d021c1b5e90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SABAH\\Documents\\GitHub\\304Dersler\\Week-12\\KitaplikUygulama\\KitaplikUygulamaWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\SABAH\\Documents\\GitHub\\304Dersler\\Week-12\\KitaplikUygulama\\KitaplikUygulamaWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -10,6 +10,18 @@ C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygu
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
 C:\Users\SABAH\Documents\GitHub\304Dersler\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.deps.json
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.AssemblyReference.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfoInputs.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfo.cs
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.CoreCompileInputs.cache
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\WissenSabah\Desktop\Son kitaplık\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.deps.json
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.dll
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
@@ -22,15 +34,3 @@ C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Deb
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
 C:\Users\Wissen\Desktop\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.deps.json
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.AssemblyReference.cache
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfoInputs.cache
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfo.cs
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.CoreCompileInputs.cache
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
-C:\Users\Wissen\Desktop\.net6\14-09-22\Week-12\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll

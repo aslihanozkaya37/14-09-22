@@ -7,12 +7,9 @@ using System.Threading.Tasks;
 
 namespace KitaplikUygulama.DataAccess.Repository.IRepository
 {
-    public interface IProductRepository:IRepository<Product>
+    public interface IProductRepository: IRepository<Product>
     {
-
-            void Update(Product obj);
-
-            //void Save();
-      
+        void Update(Product obj);
+        //void Save();
     }
 }

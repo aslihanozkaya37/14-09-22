@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -8,9 +9,8 @@ using System.Threading.Tasks;
 
 namespace KitaplikUygulama.Models
 {
-   public class Product
+    public class Product
     {
-        [Key]
         public int Id { get; set; }
         [Required]
         public string Title { get; set; }
@@ -31,15 +31,18 @@ namespace KitaplikUygulama.Models
         [Required]
         [Range(1, 10000)]
         public double Price100 { get; set; }
-        public string ImageURL { get; set; }
-        [Required]
+        [ValidateNever]
+        public string? ImageURL { get; set; }
 
+        [Required]
         public int CategoryId { get; set; }
         [ForeignKey("CategoryId")]
+        [ValidateNever]
         public Category Category { get; set; }
-        [Required]
 
+        [Required]
         public int CoverTypeId { get; set; }
+        [ValidateNever]
         public CoverType CoverType { get; set; }
     }
 }
